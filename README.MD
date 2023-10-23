@@ -9,7 +9,7 @@ Para ejecutar la aplicación debes cumplir con los siguientes requerimientos:
 - Tener java 11 o superior instalado en tu computadora.
 - Maven versión 3 o superior.
 
-### ejecutar la aplicación
+### Ejecutar la aplicación
 
 - Para iniciar la aplicación, puedes ejecutar el siguiente comando estando en la raìz principal del proyecto (donde se encuentra el archivo pom.xml):
 
